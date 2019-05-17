@@ -1,0 +1,7 @@
+-Q . "Top"
+./CaseTactic.v
+./Syntax.v
+./Semantics.v
+./Coincidence.v
+./Substitution.v
+-arg -w -arg -notation-overridden
